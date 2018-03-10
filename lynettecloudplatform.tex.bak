@@ -1,0 +1,50 @@
+
+
+\documentclass[conference]{IEEEtran}
+\begin{document}
+
+
+\section{ GOOGLE CLOUD PLATFORM}
+It is Google’s core infrastructure, data analytics and machine learning.\cite{1}it is used internally for its end-user products such as Google Search, You Tube\cite{2}.
+Software that has everything you need to build and scale your enterprise securely, is better than all the other platforms because it’s faster. 
+Google cloud platform was released in 2011, October and was written in Java, Python, Ruby and Go and is used on platforms such as Google App Engine, Google cloud Storage, Google cloud Datastore
+it is committed to open source and leading industry price performance and has been recommended by a number of other platforms and software that can be used such as Forrester Research, GCP Region expansion, Response to CPU vulnerabilities.\cite{3}.
+Why Google Cloud Platform?
+Future-Proof Infrastructure. it has been built for a long haul,secure,high performance ,cost effective and highly improving every other day.
+Seriously powerful and data analytics.it taps into big data to find answers and solutions for building better products.
+Server less, Just code.it has grown 
+from prototype to production to planet-scale, without having to think about, capacity, reliability or performance
+It offers many other products such as;
+Computing; using the compute engine, App engine, Kubernetes engine from virtual machines with proven price performance to a fully managed app development platform. it also offers
+ Storage and Databases ;using Cloud Storage, Cloud SQL,Cloud Bigtable\cite{4} leads to high performance storage for your applications.it enables 
+Networking; using tools like Cloud virtual network, cloud CDN, cloud load balancing.
+ Big Data; fully managed data warehousing, batch and stream processing, data exploring and reliable messaging using tools like Big query, Cloud dataflow
+ Many other products including Data Transfer, API Platform and ecosystems, Internet of things, Cloud AI, ;Management tools, Developer tools, Identity and Security\cite{5}.
+People’s claims’; cloud platform is very fast and secure for developing software and is very convenient for use.
+References
+1.	“Why Google Cloud Platform”. cloud.google.com.Retrieved 2014-04-05
+2.	“Google Cloud Products”. cloud.google.com.Retrieved 2017-06-02
+3.	Google Brings Serverless Computing to its cloud platform”. cloud.google.com.Retrieved 2017-06-02
+4.	“Map AWS services to Google Cloud Platform products”. Retrieved 14 April 2017
+5.	“Google Cloud Machine Learning family grows with new API,editions and pricing” Retrieved 2018-01-04
+
+
+\bibliographystyle{IEEEtran}
+\bibliography{document}
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
